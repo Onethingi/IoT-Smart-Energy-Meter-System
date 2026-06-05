@@ -12,7 +12,8 @@ Itsupports intelligent energy monitoring systems and lessens the need for manual
 
 # PCB
 
-<img width="482" height="467" alt="Screenshot 2026-05-22 103205" src="https://github.com/user-attachments/assets/d7370000-71db-4a1a-8cdb-3617b116bae1" />
+<img width="397" height="417" alt="Screenshot 2026-05-22 103205" src="https://github.com/user-attachments/assets/88d4dcdb-b0cb-421f-85a8-622b6ab3e736" />
+
 
 # Working Algorithm
 
