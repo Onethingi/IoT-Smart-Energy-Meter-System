@@ -5,3 +5,7 @@ Using sensors to measure voltage and current, thesystem determines power consump
 the totalnumber of units used and the estimated cost, which is then sent to a cloudplatform for remote monitoring. This
 system encourages effective energymanagement and assists users in monitoring their electricity consumption.
 Itsupports intelligent energy monitoring systems and lessens the need for manual meter reading.
+
+# IoT-Smart-Energy-Meter-System
+
+<img width="601" height="425" alt="k" src="https://github.com/user-attachments/assets/e440ce78-d5da-47a5-8431-d71eb6f084ef" />
